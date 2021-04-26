@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Al Salih @ahmed82 
 - 👀 I’m enjoying doing Software Engineer/architecture, Tech-lead & deliver solutions.
-- 🌱 I’m currently doing Ph.D. research on different aspect of cyber security aspects.
+- 🌱 I’m currently doing Ph.D. research on cyber security.
 - 💞️ I’m looking to collaborate on blockchain cyber security aspect.
 - ✨ I can contribute building  Enterprise applications, Restful APIs, JAVA EE, Spring Boot Framework, DevOps arch/dev, docker/K8S orcestration systems, db design.
 - 📫 You can reach me at a.alsalih2@gmail.com
