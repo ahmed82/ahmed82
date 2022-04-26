@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Al Salih @ahmed82 
-- 👀 I’m enjoying doing Software Engineer/architecture, Tech-lead & deliver solutions.
+- 👀 I’m enjoying doing Software Engineer/Architecture, Mentoring & Deliver solutions.
 - 🌱 I’m currently Sr Software Engineer III @ Ahold Delhaize. & Pursue Ph.D. Research area on cyber security, Blockchain, Hyperledger Fabric.
 - 💞️ Next research paper on decentralized private blockchain cyber security.
 - ✨ Enterprise applications, Restful APIs, JAVA EE, Spring Boot Framework, DevSecOps arch/dev, docker/K8S orcestration systems, system architecture.
