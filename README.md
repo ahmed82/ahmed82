@@ -4,6 +4,7 @@
 - 💞️ Next research paper on decentralized private blockchain cyber security.
 - ✨ Enterprise applications, Restful APIs, JAVA EE, Spring Boot Framework, DevSecOps arch/dev, docker/K8S orcestration systems, system architecture.
 - 📫 You can reach me at https://www.linkedin.com/in/ahmed-al-salih-85810a56/
+- [My Badges](https://www.credly.com/users/ahmed-al-salih/badges)
 
 <!---
 ahmed82/ahmed82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
