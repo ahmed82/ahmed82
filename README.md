@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Al Salih @ahmed82 
-- 👀 I’m a Sr. Software Engineer/Architecture, enjoying Learning & Delivering solutions.
-- 🌱 I’m currently Sr Software Engineer III @ Ahold Delhaize. & Pursue Ph.D. degree. Research area on Cybersecurity, Blockchain, and Consensus algorithm.
-- 💞️ Next research paper on decentralized private blockchain Cybersecurity.
+- 👀 I’m a Sr. Software Engineer/Architecture, enjoying Delivering solutions.
+- 🌱 I’m currently Sr. Software Engineer III @ Ahold Delhaize. & Pursue Ph.D. degree. Research area on Cybersecurity, Blockchain, DLT, and Consensus algorithm.
+- 💞️ Future research .....
 - ✨ Enterprise applications, Restful APIs, JAVA EE, Spring Boot Framework, DevSecOps, orchestration systems, system architecture.
 - 📫 You can reach me at https://www.linkedin.com/in/ahmed-al-salih-85810a56/
 - Review [My Badges](https://www.credly.com/users/ahmed-al-salih/badges)
